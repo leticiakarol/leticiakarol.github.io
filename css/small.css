@@ -1,0 +1,70 @@
+header {
+    display : block;
+    background-color : rgb(44, 35, 107);
+    margin : 3rem auto;
+    max-width : 1000px;
+    text-align : center;
+    border-radius : 10px;
+    }
+    img {
+    float : right;
+    width : 20%;
+    margin-right : 15px;
+    margin-top : -90px;
+    }
+    h1 {
+    display : block;
+    font-size : 100px;
+    color : white;
+    text-align : left;
+    font-size : 50px;
+    padding-top : 10px;
+    margin-left : 3em;
+    font-family :'Open Sans', sans-serif;
+    }
+    body {
+    display : block;
+    margin : 8px;
+    }
+    main {
+    display : block;
+    margin-left : 180px;
+    text-align : left;
+    font-size : 22px;
+    }
+    ul {
+    display : block;
+    list-style-type : disc;
+    font-family: 'Open Sans', sans-serif;;
+    }
+    h2 {
+    font-size : 25px;
+    margin-left : 3em;
+    font-family : 'Open Sans', sans-serif;
+    text-align: left;
+    }
+    p {
+    text-align : center;
+    padding-top : 10px;
+    }
+    a {
+    color : blue;
+    }
+    .line {
+    display : block;
+    margin-top : 0.5em;
+    margin-bottom : 0.5em;
+    margin-left : auto;
+    margin-right : auto;
+    border-style : inset;
+    border-width : 1px;
+    }
+    footer {
+    background-color : rgb(44, 35, 107);
+    text-align : center;
+    border-radius : 10px;
+    max-width : 1000px;
+    margin : 3rem auto;
+    color : white;
+    padding : 18px;
+    }
